@@ -63,6 +63,7 @@ rock-paper-scissors/
 ---
 
 ## Screenshot
+<img width="1894" height="851" alt="image" src="https://github.com/user-attachments/assets/d65d8ea9-f498-42ef-adf6-8319acb0bb05" />
 
 > *(Add a screenshot of your game here)*
 
