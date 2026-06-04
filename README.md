@@ -29,7 +29,7 @@ A sleek, dark-themed Rock Paper Scissors game built with vanilla HTML, CSS & Jav
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/gorjumanikantasrinivas/rock-paper-scissors.git
    ```
 
 2. Open the project folder
